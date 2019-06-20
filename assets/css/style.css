@@ -1,6 +1,16 @@
-.jumbotron{
-	
-	background-color:blueviolet;
-	color: #ffffff;
+button, div, form, input {
+	margin: 5px;
 }
 
+.btn-default {
+    color: #000;
+    font-size: medium;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+#display-images{
+	display: inline;
+}
