@@ -1,7 +1,7 @@
     
 $(document).ready(function(){
 
-    var displayedButtons = ["Parrots"];
+    var displayedButtons = ["Parrots","dogs","cats","birds"];
 
     function displayImg(){
 
